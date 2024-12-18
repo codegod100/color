@@ -1,6 +1,7 @@
 /**
  * @module
  * This module provides a function to colorize strings in the console.
+ *
  * @example
  * ```ts
  * import { color } from "jsr:@nandi/color";
