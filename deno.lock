@@ -1,0 +1,11 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@openjs/random-color@*": "1.0.1"
+  },
+  "jsr": {
+    "@openjs/random-color@1.0.1": {
+      "integrity": "7b3692f171ce07adaed545a7bdacf5b03f04b2cd6c0f02535cbf9ea5c9d2ae20"
+    }
+  }
+}
